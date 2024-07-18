@@ -9,7 +9,7 @@ Connection();
 
 const io = new Server(PORT, {
     cors: {
-        origin: 'https://unitypages-21xnmi1fu-shivang-vermas-projects.vercel.app',
+        origin: 'https://https://unity-pages-sable.vercel.app',
         methods: ['GET', 'POST']
     }
 });
