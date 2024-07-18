@@ -9,7 +9,7 @@ Connection();
 
 const io = new Server(PORT, {
     cors: {
-        origin: 'https://https://unity-pages-sable.vercel.app',
+        origin: 'https://unity-pages-sable.vercel.app',
         methods: ['GET', 'POST']
     }
 });
